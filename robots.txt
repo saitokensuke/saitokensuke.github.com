@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://saitokensuke.github.io/sitemap.xml 
